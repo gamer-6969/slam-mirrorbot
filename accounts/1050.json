@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "deductive-water-315610",
+  "private_key_id": "7bef62440f81de0d5d84643b2e38d4618862d669",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC4ZKE5pRUKBKYj\nMELfr7bSJ37iBglBm4ygc6dyLrntVrYcm9budcOJcg6p2GnhpTyZODqUwgfYpmUE\nFXNNb4ZnFhZmYFSrnsC/ajYlpy/cMFURUXS9Age+dbxYNoAxawpsShO6Iy9ARYeP\nM328O1yXdKd5wgWOHdDh/Vgym0Di+sr8LpizmYK8JKrA0w70eABkJcdlfilHEjn3\ndOVFQ5J7dlPH0TF6FKpj9V8LVnIj2b7EFLdkRSX/lUTQSo3USUd1VFgS+nWuCOpR\nrvYHHl62Wd2E11tSSHYlRFHFDQylZlMl2yGAPqOXIfMO0WBFu3TT19PLUvOSsX/Z\nHtmyE0+ZAgMBAAECggEADqM6YzuWHHn7AE8b9+rYff1Rprqo8HLbKn+T2s4Xx137\nTfEXEk357EbIIDaETTvTQCyFBfsTKWEoIrdbNFn2ludbdtwNzKPpFCjnzHxlobqa\nfinztO9c0wNApNYKviGLrcYBo+SYIyeB193UDOW/d2x0wQckbsAyLUZxwm6tq3bv\nhAq3ENrgu4Bn1u6lJRtuNVgCQxqVqpfhGEI/FmjMRSWHMuL2tZl1koTdhNy+YgkV\ntZuT4Yo+mmr7jiE705pa/aRuTMagdsnczr/OYZgZD4Dg+8d7mk9Ulu9SUQ1LwrFP\nUlQypZ7OaAWVFo7gdItKmMq881U7pHQBM+lK8d0aGwKBgQDyRdx9JaB1W8wpYMDi\nhxFnd36Wwcedyt1KyGXb40ufrFqJs/mNkW1CESyC/Yn6t+p7YgaksNYPEVL2mkj2\nm386uuNlTI1ggaKa8ZHzYxaGmGiA7NJu0UJnt744kJ9nJeUcKgLIKDw4+aJ1BBUe\nFDIv+7a5TGvRsG2T836klIop+wKBgQDC1zqbHt2wVOX1gxUlkzzBe3EB/FFpNCQF\nvQ29f2Zo3A9Y+qo3pmmxftP6gHzQDfNcJjrHPGudCWR7LkQ4IxrE9bcL9X8OXMdd\nyaHjQGMj8KzdtJw3h8r8+InNHLrDZFbF39hmPrgjE5h78ZefixS9UuJzbx95yH+H\nOS4BPk4sewKBgQC3VQhhp2yCAoI/OZkckmsoKbOgb2kXzeCha34w5BJg9PLaS1fn\nugm8ufQ995BHKo+E6IvwamTBqDForR3Th53CmpPjHwfI5LBgobb5P51XItPJ4+vl\nsfKXO+L1OPN3AaUbJ+tM/a18y+MUu48jYNMNnmQKWnsohWKWV+cYsdLPqwKBgQCQ\ndqStfyVAKLKYZqi3Q4Q4sR4JKtvx9QcAejxF1MBJ32BByRmMSYb0Y+UoRzxDxxQ5\nrt7F+raPqPcnnhZWyTB/+O/Pniamr4Piti2iIYtgioKhn9h0E+sdxenmeva/CRaN\ngHsi1D4TQ+Q7gdW6JZUrCtl8XVgpI8/qoyrJITk1IQKBgQDLcbYwGCHlG9RqAARr\n6VX4+eDpsmj8OWgMVhIZ4exeBt4XQvSIyvzpdqlbNEtTCEmUoWUM3dyfaeKzsASp\ndz6Fib1c/qUNufKUKYxIsOwzfhioJdFhozHpUZ09Asjq9qKRbD6s9HUOC1jmB5KI\n5j5CoGFLeXanqJyXqd0fQLrfGw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-yus5erapc5ty5nzf5gf-eyp9vy@deductive-water-315610.iam.gserviceaccount.com",
+  "client_id": "112849558776434321050",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-yus5erapc5ty5nzf5gf-eyp9vy%40deductive-water-315610.iam.gserviceaccount.com"
+}
